@@ -35,3 +35,8 @@ body{
          background-color: var(--botao-ativo);
          color:(--branco);
          display: flex;
+         justify-content: center;
+         padding: iem
+font-size:  18px;
+align-items: center;
+width: 100%;
