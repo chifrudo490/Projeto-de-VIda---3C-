@@ -40,3 +40,6 @@ body{
 font-size:  18px;
 align-items: center;
 width: 100%;
+Border-bottom: 4px solid var(--botao-ativo);
+Border-left: 4px solid var(--botao-ativo);
+Border-right: 4px solid var(--botao-ativo);
